@@ -2,13 +2,8 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 3
-  tags:
-  - Destroyer
-  - Target
-  - PlayerHand
-  - Anchor
-  - Projectile
+  serializedVersion: 2
+  tags: []
   layers:
   - Default
   - TransparentFX
@@ -16,8 +11,10 @@ TagManager:
   - 
   - Water
   - UI
-  - Mirror
-  - RenderOnTop
+  - 
+  - 
+  - PostProcessing
+  - NonFocusable
   - 
   - 
   - 
@@ -39,12 +36,8 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - XR Simulation
   - 
   m_SortingLayers:
   - name: Default
     uniqueID: 0
     locked: 0
-  m_RenderingLayers:
-  - Default

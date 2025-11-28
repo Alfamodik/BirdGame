@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 85638b232d5e49446a7425ad15692429
+timeCreated: 1517006730
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 147411
+  packageName: The Physical Bird Controller
+  packageVersion: 1.0
+  assetPath: Assets/ThePhysicalBirdController/Scripts/BirdController.cs
+  uploadId: 335435

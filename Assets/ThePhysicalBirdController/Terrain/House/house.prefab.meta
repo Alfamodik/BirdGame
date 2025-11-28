@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ba78f951879a5d14eb7219307fda181c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 147411
+  packageName: The Physical Bird Controller
+  packageVersion: 1.0
+  assetPath: Assets/ThePhysicalBirdController/Terrain/House/house.prefab
+  uploadId: 335435

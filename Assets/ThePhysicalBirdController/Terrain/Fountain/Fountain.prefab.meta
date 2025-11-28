@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 95f483c80dcb210478199fd317e66ed4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 147411
+  packageName: The Physical Bird Controller
+  packageVersion: 1.0
+  assetPath: Assets/ThePhysicalBirdController/Terrain/Fountain/Fountain.prefab
+  uploadId: 335435

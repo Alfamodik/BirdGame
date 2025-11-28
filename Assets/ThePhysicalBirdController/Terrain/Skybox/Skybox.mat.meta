@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ddb03f296bd01a7468b2c63673092ed8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 147411
+  packageName: The Physical Bird Controller
+  packageVersion: 1.0
+  assetPath: Assets/ThePhysicalBirdController/Terrain/Skybox/Skybox.mat
+  uploadId: 335435

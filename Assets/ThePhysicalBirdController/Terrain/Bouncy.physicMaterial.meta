@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 68cbcec71f3fa8345afb29cc3c7dcbdb
+timeCreated: 1517101984
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 13400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 147411
+  packageName: The Physical Bird Controller
+  packageVersion: 1.0
+  assetPath: Assets/ThePhysicalBirdController/Terrain/Bouncy.physicMaterial
+  uploadId: 335435

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e85b9d5634244794aa1f6446e84a8ba9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 147411
+  packageName: The Physical Bird Controller
+  packageVersion: 1.0
+  assetPath: Assets/ThePhysicalBirdController/Bird/Materials/Bird.mat
+  uploadId: 335435

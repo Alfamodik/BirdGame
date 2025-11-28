@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f9478da7c1b3d6a49a07a049fd8c9763
+timeCreated: 1520263292
+licenseType: Store
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 147411
+  packageName: The Physical Bird Controller
+  packageVersion: 1.0
+  assetPath: Assets/ThePhysicalBirdController/Standard Assets/Environment/Water/DO_NOT_WORK_IN_VR.txt
+  uploadId: 335435

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f99881a9837665f4ca694f8094a719e7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 147411
+  packageName: The Physical Bird Controller
+  packageVersion: 1.0
+  assetPath: Assets/ThePhysicalBirdController/InputVariables/Interact.asset
+  uploadId: 335435

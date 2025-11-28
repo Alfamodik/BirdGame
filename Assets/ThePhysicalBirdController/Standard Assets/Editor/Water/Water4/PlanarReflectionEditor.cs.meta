@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ff3b0e14a61014f50be83e1a18c6d43e
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 147411
+  packageName: The Physical Bird Controller
+  packageVersion: 1.0
+  assetPath: Assets/ThePhysicalBirdController/Standard Assets/Editor/Water/Water4/PlanarReflectionEditor.cs
+  uploadId: 335435

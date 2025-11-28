@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4a5bfcbdc230c924b8536429a60ee9e1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 147411
+  packageName: The Physical Bird Controller
+  packageVersion: 1.0
+  assetPath: Assets/ThePhysicalBirdController/Scenes/Landscape_Profiles/Main Camera
+    Profile.asset
+  uploadId: 335435

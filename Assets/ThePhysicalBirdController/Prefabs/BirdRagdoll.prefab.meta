@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5e95c4ae3dc62e24f82583fc5756f653
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 147411
+  packageName: The Physical Bird Controller
+  packageVersion: 1.0
+  assetPath: Assets/ThePhysicalBirdController/Prefabs/BirdRagdoll.prefab
+  uploadId: 335435

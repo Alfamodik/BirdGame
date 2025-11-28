@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 268614a9d39016c4796dcbb6803e495a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 147411
+  packageName: The Physical Bird Controller
+  packageVersion: 1.0
+  assetPath: Assets/ThePhysicalBirdController/Terrain/Mountains/Mountains.prefab
+  uploadId: 335435

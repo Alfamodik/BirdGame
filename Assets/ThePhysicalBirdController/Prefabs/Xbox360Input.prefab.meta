@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1bcd723f1f8877549957236e4813ca0d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 147411
+  packageName: The Physical Bird Controller
+  packageVersion: 1.0
+  assetPath: Assets/ThePhysicalBirdController/Prefabs/Xbox360Input.prefab
+  uploadId: 335435
