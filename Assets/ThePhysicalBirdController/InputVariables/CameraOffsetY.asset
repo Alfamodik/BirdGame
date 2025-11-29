@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 435652ef830279d48ac5158699adb30b, type: 3}
   m_Name: CameraOffsetY
   m_EditorClassIdentifier: 
-  Value: 0.15
+  Value: 0.2
