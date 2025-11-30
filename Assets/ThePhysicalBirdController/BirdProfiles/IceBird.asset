@@ -27,9 +27,9 @@ MonoBehaviour:
   LinearDrag: 0
   SpeedLimit: 30
   ApplyForcesAt: {x: 0, y: 0, z: 0}
-  MaxValidLandingVelocity: 5
+  MaxValidLandingVelocity: 10
   MaxValidSlope: 40
-  StandingYOffset: 0
+  StandingYOffset: 0.05
   StartHop: {x: 0, y: 0.8, z: 0.1}
   TakeOffForceFactor: 1.2
   StraveSpeed: {x: 7, y: 7, z: 3}

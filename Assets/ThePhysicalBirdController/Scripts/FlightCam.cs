@@ -27,7 +27,8 @@ public class FlightCam : MonoBehaviour {
     private const float userLineOfVisionSlerpT = 0.1f;
     private const int trajectoryControlPointCount = 50;
     private const int dampYWindow = 25;
-    private const float updateAtVelocity = 1.0f; //camera is only moved if the body it follows moves faster than this value
+    //private const float updateAtVelocity = 1.0f; //camera is only moved if the body it follows moves faster than this value
+    private const float updateAtVelocity = 0f; // кастомно
 
     private Vector3[] trajectoryPositions;
     private Vector3[] trajectoryVelocities;
@@ -67,7 +68,7 @@ public class FlightCam : MonoBehaviour {
     }
 
     void FixedUpdate() {
-        userLineOfVisionAngles += new Vector2(OrbitX.Value,  OrbitY.Value);
+        //userLineOfVisionAngles += new Vector2(OrbitX.Value,  OrbitY.Value); // кастомно
         transitionLerp = Mathf.Clamp01(transitionLerp + Time.fixedDeltaTime);
         //userLineOfVisionAngles.y = Mathf.Clamp(userLineOfVisionAngles.y, -userLineOfVisionMaxY, userLineOfVisionMaxY);
         //userLineOfVisionAngles.x = Mathf.Clamp(userLineOfVisionAngles.x, -userLineOfVisionMaxX, userLineOfVisionMaxX);
