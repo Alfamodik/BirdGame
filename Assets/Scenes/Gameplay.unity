@@ -636,7 +636,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f29d425798564304f8b45c79dc0a0280, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _gridSize: 15
+  _gridSize: 30
   _target: {fileID: 4615688899946026}
   _prefabsScriptableObjectsList: {fileID: 11400000, guid: f1e5931847053ff498eff26acc23f4d1,
     type: 2}
